@@ -1,0 +1,59 @@
+body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	background: #E6E6E6;
+}
+.header {
+	background: url('../imagens/balao_azul_grande_estourado.png');
+	background: #fff;
+	padding: 15px;
+	text-align: center;
+	border-radius: 4px;
+}
+
+.header h1 {
+	color: #0404B4;
+}
+
+.principal {
+
+	border: 1px solid #a2a2a2;
+	background: #fff;
+	padding: 10px;
+	margin: 10px auto 10px auto;
+	width: 800px;
+	border: 1px solid #E6E6E6;
+	height:500px;
+}
+
+.iniciar {
+	padding-left: 50px;
+}
+
+.menu {
+	width: 140px;
+	
+	height: 500px;
+	float: left;
+}
+.cenario {
+	background-position: bottom;
+	margin: auto;
+	float: right;
+	width: 600px;
+	height: 500px;
+	background: url('../imagens/cenario.png');
+}
+
+#cronometro {
+	text-align: center;
+	font-size: 30px;
+	color:red;
+}
+
+#baloes_inteiros{
+	font-size: 40px;
+}
+
+#baloes_estourados{
+	font-size: 40px;
+}
